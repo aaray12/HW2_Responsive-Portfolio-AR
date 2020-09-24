@@ -1,10 +1,23 @@
-.container{
-    width: 750px;
-    height: 600px;
+
+*{
+    font-family: 'Peddana', serif;
+}
+.mainBody{
+    width: auto;
+    height: auto;
     margin: auto;
-    background-color: rgb(110, 110, 179);
+    background-color: rgb(26, 56, 26);
     position: relative;
     top: 100px;
+}
+body{
+    background-image: url(./wood.jpg);
+}
+.aboutMe{
+padding-bottom: 5%;
+border-bottom: thin sol;
+border-width: 5%;
+border-color: whitesmoke;
 }
 #me{
     height: 250px;
@@ -16,26 +29,9 @@
 h1{
     text-align: center;
     margin: auto;
+    color: wheat
 }
 p{
+    color: wheat;
     margin: 25px;
 }
-/* nav{
-    background-color: #333;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-    display: block;
-}
-.navbar-brand{
-    font-size: 34px;
-}
-.nav-list{
-    list-style-type: none;
-    text-align: left;
-}
-.nav-list li{
-    display: inline-block;
-    padding: 10px;
-    font-size: 34px;
-} */
