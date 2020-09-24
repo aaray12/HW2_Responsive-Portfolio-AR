@@ -1,0 +1,41 @@
+.container{
+    width: 750px;
+    height: 600px;
+    margin: auto;
+    background-color: rgb(110, 110, 179);
+    position: relative;
+    top: 100px;
+}
+#me{
+    height: 250px;
+    width: auto;
+    margin: auto;
+    float: left;
+    margin: 25px;
+}
+h1{
+    text-align: center;
+    margin: auto;
+}
+p{
+    margin: 25px;
+}
+/* nav{
+    background-color: #333;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    display: block;
+}
+.navbar-brand{
+    font-size: 34px;
+}
+.nav-list{
+    list-style-type: none;
+    text-align: left;
+}
+.nav-list li{
+    display: inline-block;
+    padding: 10px;
+    font-size: 34px;
+} */
