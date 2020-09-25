@@ -1,6 +1,7 @@
 
 *{
     font-family: 'Peddana', serif;
+    color: wheat
 }
 .mainBody{
     width: auto;
@@ -11,7 +12,7 @@
     top: 100px;
 }
 body{
-    background-image: url(./wood.jpg);
+    background-image: url(./myImages/myAssets/wood.jpg);
 }
 .aboutMe{
 padding-bottom: 5%;
@@ -38,4 +39,9 @@ p{
 }
 .myImg{
     margin: 50px;
+}
+.submit{
+    margin:20px;
+    text-align: center;
+    width: 500px
 }
