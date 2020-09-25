@@ -5,7 +5,7 @@
 .mainBody{
     width: auto;
     height: auto;
-    margin: auto;
+    margin: 100px;
     background-color: rgb(26, 56, 26);
     position: relative;
     top: 100px;
@@ -30,8 +30,12 @@ h1{
     text-align: center;
     margin: auto;
     color: wheat
+    
 }
 p{
     color: wheat;
     margin: 25px;
+}
+.myImg{
+    margin: 50px;
 }
